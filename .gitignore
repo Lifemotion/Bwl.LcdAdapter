@@ -1,0 +1,11 @@
+*.suo
+local.*
+temp.*
+debug.*
+bin
+dllOut
+obj
+*-debug
+debug
+release
+.vs
